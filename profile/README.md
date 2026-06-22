@@ -1,29 +1,104 @@
 <div align="center">
-
+  
 # Rekko
-
-Open source projects maintained under the Rekko organization.
 
 </div>
 
-## Repositories
+Rekko is a social platform focused on anime discovery and recommendations. Its goal is to connect users through posts, opinions, and recommendations, creating a community where they can share experiences and find new series to watch.
 
-### 📦 Rekko
+The application combines social networking features with content discovery tools, allowing users to interact with others, follow community activity, and access detailed information about anime.
 
-Main project repository.
+The project consists of a frontend developed to offer a modern and responsive experience, and a backend API responsible for user management, authentication, posts, recommendations, and other business logic.
 
-→ https://github.com/Rekko-Lists/Rekko
+<div align="center">
+  
+## Main Features
 
-### 🔌 Rekko API
+</div>
 
-API repository.
+- Posts and comments about anime.
 
-→ https://github.com/Rekko-Lists/Rekko-API
+- Recommendation system.
 
-## Organization
+- Customizable user profiles.
 
-This organization contains the projects and services related to Rekko.
+- Authentication via email and external providers.
 
-## Contributing
+- Integration with anime information services.
 
-Issues, pull requests and suggestions are welcome.
+- Reputation and social interaction system.
+
+- Daily challenges and activities for the community.
+
+<div align="center">
+  
+## [**Frontend**](https://github.com/Rekko-Lists/Rekko)
+
+</div>
+
+The platform's web interface.
+
+### Technologies
+
+- React 18
+- TypeScript
+- Vite
+- React Router
+- Zustand
+- Tailwind CSS
+- DaisyUI
+- Firebase Authentication
+
+### Features
+
+- Single Page Application (SPA)
+- Global State Management
+- Dynamic Routing
+- SEO Optimized
+- REST API Integration
+- OAuth with Google and Discord
+- Responsive Interface
+
+<div align="center">
+  
+## [**Backend**](https://github.com/Rekko-Lists/Rekko-API)
+
+</div>
+
+REST API and business logic.
+
+### Technologies
+
+- Node.js
+- Express 5
+- TypeScript
+- Prisma ORM
+- PostgreSQL
+- JWT Authentication
+- Firebase Admin
+- Cloudinary
+- Nodemailer
+- Zod
+
+### Features
+
+- User Management
+- Authentication and Authorization
+- Publishing System
+- Comments and Likes
+- User Reputation
+- MyAnimeList Integration
+- Image Management
+- Moderation
+- Daily Challenges
+- Recommendation API
+
+<div align="center">
+  
+## Objective
+
+</div>
+
+To create a space where anime fans can discover new series, share recommendations, and participate in an active community focused on entertainment and discussion.
+
+###### BY: **[Eriquito00](https://github.com/Eriquito00)** and **[Wysper](https://github.com/WysperOtaku)**
